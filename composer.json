@@ -1,12 +1,16 @@
 {
     "name": "dharit/demopackage",
-    "description": "A sample PHP package",
+    "description": "Your package description",
+    "version": "1.0.0",
     "type": "library",
-    "license": "MIT",
+    "require": {
+        "php": ">=8.0"
+    },
     "autoload": {
         "psr-4": {
-            "Vendor\\PackageName\\": "src/"
+            "Dharit\\Demopackage\\": "src/"
         }
     },
-    "require": {}
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
