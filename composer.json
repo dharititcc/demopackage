@@ -1,7 +1,7 @@
 {
     "name": "dharit/demopackage",
     "description": "Your package description",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "type": "library",
     "require": {
         "php": ">=8.0"
