@@ -1,6 +1,6 @@
 <?php
 
-namespace Vendor\PackageName;
+namespace Dharittcc\Demopackage;
 
 class MyClass {
     public function hello() {
